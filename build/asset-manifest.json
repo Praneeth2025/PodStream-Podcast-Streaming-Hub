@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/zenith-bistro/static/css/main.c1adc58c.css",
+    "main.js": "/zenith-bistro/static/js/main.1f9d1825.js",
+    "static/js/453.9882bf73.chunk.js": "/zenith-bistro/static/js/453.9882bf73.chunk.js",
+    "static/media/Extend_left_left2.png": "/zenith-bistro/static/media/Extend_left_left2.6136d060a8b22a5ed9b7.png",
+    "static/media/test.jpg": "/zenith-bistro/static/media/test.a11773710bfb2bff0c18.jpg",
+    "static/media/pngegg (3).png": "/zenith-bistro/static/media/pngegg (3).b696e9627d9cf62247a8.png",
+    "static/media/Expresso.jpg": "/zenith-bistro/static/media/Expresso.e764935315ac50e3c642.jpg",
+    "static/media/pngegg (4).png": "/zenith-bistro/static/media/pngegg (4).dd74c319c50445395f3e.png",
+    "static/media/osso-buco-alamy.jpg": "/zenith-bistro/static/media/osso-buco-alamy.0b41f516a7139a82c5c0.jpg",
+    "static/media/pizza.jpg": "/zenith-bistro/static/media/pizza.7403488eadc4135e4298.jpg",
+    "static/media/pasta.jpg": "/zenith-bistro/static/media/pasta.6de5cbae5c30aaac8d6a.jpg",
+    "static/media/ice cream.jpg": "/zenith-bistro/static/media/ice cream.a587a9eb3761ddae4064.jpg",
+    "static/media/oone.png": "/zenith-bistro/static/media/oone.39851dd8d91ffe2a0aef.png",
+    "static/media/Baked Ziti.jpg": "/zenith-bistro/static/media/Baked Ziti.2d0753dd51045ff417b6.jpg",
+    "static/media/noodles.jpg": "/zenith-bistro/static/media/noodles.e226307ae457c1ea624f.jpg",
+    "static/media/open_page.png": "/zenith-bistro/static/media/open_page.b29ec4054f596cda9dff.png",
+    "static/media/lasagna.jpg": "/zenith-bistro/static/media/lasagna.768f5bda0b10f4c47338.jpg",
+    "static/media/Eggplant Parmesan.jpg": "/zenith-bistro/static/media/Eggplant Parmesan.9380c265addd65ba3804.jpg",
+    "static/media/Gnocchi.jpg": "/zenith-bistro/static/media/Gnocchi.e8ec2001d05206ff9d2e.jpg",
+    "static/media/Extend_left_left1.png": "/zenith-bistro/static/media/Extend_left_left1.a7b6dd2e6bf620bae619.png",
+    "static/media/about_us.png": "/zenith-bistro/static/media/about_us.e703ce273a2aa0b6af30.png",
+    "static/media/risotto.jpg": "/zenith-bistro/static/media/risotto.ddbe5a23b6060450b905.jpg",
+    "static/media/Iced Tea.jpg": "/zenith-bistro/static/media/Iced Tea.4ecc41b6be36bcff94a1.jpg",
+    "static/media/chocolate brownie.jpg": "/zenith-bistro/static/media/chocolate brownie.a5849a9a245c990c007e.jpg",
+    "static/media/choco lava cake.jpg": "/zenith-bistro/static/media/choco lava cake.6102ae7c42f84552cb9b.jpg",
+    "static/media/Chicken Parmigiana.jpg": "/zenith-bistro/static/media/Chicken Parmigiana.4813c5124f31829f91a0.jpg",
+    "index.html": "/zenith-bistro/index.html",
+    "main.c1adc58c.css.map": "/zenith-bistro/static/css/main.c1adc58c.css.map",
+    "main.1f9d1825.js.map": "/zenith-bistro/static/js/main.1f9d1825.js.map",
+    "453.9882bf73.chunk.js.map": "/zenith-bistro/static/js/453.9882bf73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1adc58c.css",
+    "static/js/main.1f9d1825.js"
+  ]
+}

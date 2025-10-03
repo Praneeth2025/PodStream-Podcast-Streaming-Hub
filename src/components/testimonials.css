@@ -1,0 +1,174 @@
+.total_testimonials{
+    height: 700px;
+    width:100%;
+    padding:0px;
+    background: url('../New\ folder/test.jpg');
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    margin-bottom:  15%;
+    
+}
+
+.testimonials_review{
+    font-size: 20px;
+    opacity:100%;
+}
+
+.testimonials_title{
+    padding-left:15%;
+    margin-bottom: 8%;
+}
+.testimonials_box{
+    height:300px;
+    width:720px;
+    border :solid 2px white;
+    align-items: center;
+    margin-left:5%;
+}
+
+.testimonials_review{
+    padding:0% 13%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.total_testimonials .testimonials_box .info img{
+    height: 50px;
+    width:50px;
+    padding: 3px 5px;
+}
+
+.testimonial_name{
+    font-size: 15px;
+    opacity:100%;
+    margin-bottom:5px;
+    margin-top:0px;
+}
+.testemonial_post{
+    font-size: 12px;
+    margin:0px;
+    
+}
+
+.info{
+    display: flex;
+    
+    
+}
+.webflow{
+    font-size: 12px;
+    opacity:100%;
+    padding-left:12px;
+}
+.vline{
+    height:50px;
+    width:0px;
+    padding: 0px;
+    border: solid 1px white;
+}
+.rate{
+    margin-bottom: 35px;
+}
+
+
+.total_testimonials {
+    position: relative;
+    width: 100%; /* Adjust as needed */
+    overflow: hidden;
+  }
+  
+  .testimonials_box {
+    width: 50%;
+    position: relative;
+    transition: transform 0.75s ease;
+    opacity: 1;
+  }
+  
+ 
+  
+  .slide-right.animating {
+    transform: translateX(400%);
+    opacity: 0;
+  }
+  
+  .slide-right {
+    transform: translateX(0);
+  }
+  
+ 
+  
+  .info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .vline {
+    width: 1px;
+    height: 50px;
+    background-color: grey;
+    margin: 0 10px;
+  }
+  
+  .webflow {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .testimonials_box:not(.animating) {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  
+  .stars {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.star-filled {
+    color: gold;
+    font-size: 20px;
+    margin: 0 2px;
+}
+
+.star-empty {
+    color: rgba(255, 255, 255, 0.5);  /* Transparent stars */
+    font-size: 20px;
+    margin: 0 2px;
+}
+
+
+
+.testimonials_box {
+  height: 300px;
+  width: 720px;
+  border: solid 2px white;
+  align-items: center;
+  margin-left: 5%;
+  transition: opacity 0.75s ease;  /* Ensure smooth opacity transition */
+}
+
+.fade-out {
+  opacity: 0;  /* Fade out effect */
+}
+
+.fade-in {
+  opacity: 1;  /* Fade in effect */
+}
+
+.animating {
+  transition: opacity 0.75s ease;  /* Match with JS timeout */
+}
+
+.arrow_button {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  height: 30px;
+  width: auto;
+  scale: 2.5;
+}
